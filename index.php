@@ -91,8 +91,8 @@
         <th scope="col">#</th>
         <th scope="col">Descrição</th>
         <th scope="col">Estoque</th>
-        <th scope="col">Preço Custo</th>
-        <th scope="col">Preço Venda</th>
+        <th scope="col">Preço de Custo</th>
+        <th scope="col">Preço de Venda</th>
         <th scope="col">Código de Barra</th>
         <th scope="col">Data Origem</th>
         <th scope="col">Data Cadastro</th>
